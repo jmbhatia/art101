@@ -30,8 +30,8 @@ h1 {
 #lab2content {
   margin: 20px;
   padding: 20px;
-  border: solid 1px #50808E;
-  background-color: #A3C9A8;
+  border: solid 1px #e2a3cf;
+  background-color: #f78bff;
 }
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 .minor-section {
