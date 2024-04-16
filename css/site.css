@@ -27,6 +27,12 @@ h1 {
   background-color: #c3e0be;
 }
 
+#lab2content {
+  margin: 20px;
+  padding: 20px;
+  border: solid 1px #50808E;
+  background-color: #A3C9A8;
+}
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 .minor-section {
   padding: 10px;
