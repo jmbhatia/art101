@@ -37,8 +37,8 @@ h1 {
 .paragraph {
   padding: 10px; 
   margin-bottom: 10px;
-  border:solid 1px #50808E;
-  background-color: #c3e0be;
+  border:solid 3px #f33838;
+  background-color: #f28fab;
 }
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 .minor-section {
