@@ -1,6 +1,6 @@
 
 body {
-    background-color: #e7c9e9;
+    background-color: #f6ebf7;
   }
   
   /* we can have rules apply to multiple elements at the same time with commas */
@@ -18,8 +18,8 @@ body {
   #lab2content {
     margin: 20px;
     padding: 20px;
-    border: solid 1px #e2a3cf;
-    background-color: #f78bff;
+    border: solid 1px #d24eaa;
+    background-color: #f6bcfb;
   }
   
   .bioheader {
@@ -28,4 +28,16 @@ body {
     border:solid 3px #fd6a6a;
     background-color: #f28fab;
   }
-  
+  .paragraph1 {
+    padding: 10px; 
+    margin-bottom: 10px;
+    border:solid 3px #fd6a6a;
+    background-color: #f28fab;
+  }
+
+  .paragraph2 {
+    padding: 10px; 
+    margin-bottom: 10px;
+    border:solid 3px #fd6a6a;
+    background-color: #f28fab;
+  }
