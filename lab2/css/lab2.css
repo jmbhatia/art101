@@ -26,18 +26,23 @@ body {
     padding: 10px; 
     margin-bottom: 10px;
     border:solid 3px #fd6a6a;
-    background-color: #f28fab;
+    background-color: #f0c5d1;
   }
   .paragraph1 {
     padding: 10px; 
     margin-bottom: 10px;
     border:solid 3px #fd6a6a;
-    background-color: #f28fab;
+    background-color: #f0c5d1;
   }
 
   .paragraph2 {
     padding: 10px; 
     margin-bottom: 10px;
     border:solid 3px #fd6a6a;
-    background-color: #f28fab;
+    background-color: #f0c5d1;
+  }
+
+  .kubo {
+    margin: 10px;
+    max-width: 250px;
   }
