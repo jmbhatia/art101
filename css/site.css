@@ -27,19 +27,6 @@ h1 {
   background-color: #c3e0be;
 }
 
-#lab2content {
-  margin: 20px;
-  padding: 20px;
-  border: solid 1px #e2a3cf;
-  background-color: #f78bff;
-}
-
-.paragraph {
-  padding: 10px; 
-  margin-bottom: 10px;
-  border:solid 3px #f33838;
-  background-color: #f28fab;
-}
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 .minor-section {
   padding: 10px;
