@@ -2,11 +2,11 @@
 
 .me2 {
   margin: 10px;
-  max-width: 500px;
+  max-width: 100px;
 }
 
-.button {
-  width: 30px;
-  height: 30px;
 
+.links{
+  width: 10px;
+  height: 10px;
 }
