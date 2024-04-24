@@ -1,21 +1,24 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// index.js - Lab 4 Pseudocoding and Problem Solving
+//Tic-Tac-Tow Game code
+// Author: Jasmine Bhatia
+// Date: 4/23/2024
 
-// Constants
+// Constants: Rock, Paper and Sissors
 
-// Functions
+// Functions: Choosing input and move
 
-// this is an example function and this comment tells what it doees and what parameters are passed to it.
-function myFunction(param1, param2) {
-  // some code here
-  // return results;
-}
-
-function main() {
-  console.log("Main function started.");
-  // the code that makes everything happen
-}
-
-// let's get this party started
-main();
+  /* 
+1. Have player input Rock, Paper or Scissors. 
+       Provide a interactive buttons for Rock, Paper or Scissors.
+          Assign a variable for the player's choice.
+2. Have computer make their move. 
+      Computer randomly chooses from an array of strings saying "Rock", "Paper" or "Scissors"
+          Assign a variable for the computer's choice.
+3. Compare responses between Player and Computer.
+      Run through every choice and compare.
+          If player chooses rock and computer chooses paper
+              return "You Lose"
+          If player chooses rock and computer chooses Scissors
+              return "You Win"
+	(conditional statements based on RPS rules)
+*/
