@@ -5,5 +5,23 @@
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #888;
-    background-color: #DDD8C4;
+    background-color: #c3e0be;
+  }
+.golf{
+  align-content: center 100px;
+  max-width: 200px;
+}
+  .ss1{
+    max-width: 100px;
+  }
+
+  .ss2{
+    max-width: 100px;
+  }
+
+  #output {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color: #c3e0be;
   }

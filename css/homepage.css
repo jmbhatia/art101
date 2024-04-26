@@ -1,34 +1,47 @@
 /* this css file will only style the homepage of our site */
 
 .me3 {
-  margin-top: 20px;
-  margin-left: 100px;
   max-width: 300px;
 }
-
+.row {
+  margin-left: 100px;
+  display: flex;
+  margin-right: 100px;
+}
+.column {
+  flex: 50%;
+  padding: 15px;
+}
 .kubo {
-  max-width: 300px;
+  max-width: 150px;
 }
-
-.heading{
-  margin-left: 120px;
-}
-
-.links{
-  padding: 10px;
-  margin-left: 100px;
-  width: 500px;
-  margin-bottom: 10px;
-  border: dashed 2px #2f0938;
-  background-color: #e2cee6;
-}
-
 #content {
   margin-left: 50px;
   width: 700px;
   border: dashed 2px #08481b;
   background-color: #c3e0be;
 }
+
+.heading{
+  margin-left: 120px;
+}
+.body{
+  margin-left: 100px;
+  display: flex;
+}
+.column2{
+  flex: 33%;
+  padding: 15px;
+}
+.links{
+  padding: 10px;
+  margin-left: 100px;
+  width: 500px;
+  margin-bottom: 10px;
+  border: solid 1px #888;
+  background-color: #e2cee6;
+}
+
 .minor-section {
   width: 500px;
   margin-left: 100px;
