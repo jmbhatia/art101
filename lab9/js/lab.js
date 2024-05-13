@@ -8,13 +8,13 @@
  */
 
 //add button to challenge section
-$("#challenge").append("<button id='button-challenge'>Make Pretty</button>");
+$("#challenge").append("<button class='button-challenge'>Make Pretty</button>");
 
 //add button to problems section
-$("#problems").append("<button id='button-problems'>Make Pretty</button>");
+$("#problems").append("<button class='button-problems'>Make Pretty</button>");
 
 //add button to results section
-$("#results").append("<button id='button-results'>Make Pretty</button>");
+$("#results").append("<button class='button-results'>Make Pretty</button>");
 
 //add click listerner to buttons
 $(".button-challenge").click(function(){
