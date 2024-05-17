@@ -1,0 +1,6 @@
+.special {
+    background-color: lavender;
+    border: dotted 50px rgb(176, 16, 165);
+    color: rgb(77, 3, 88);
+    font-weight: bold;
+}
