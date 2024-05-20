@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lab 11 - JavaScript Events and Forms</title>
+
+  	<meta charset="UTF-8" />
+  	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" type="text/css" href="../css/site.css">
+	<link rel="stylesheet" type="text/css" href="css/lab.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+    crossorigin="anonymous"></script>
+	<script src="js/lab.js" defer></script>
+</head>
+<body>
+	<main id="content">
+		<section>
+			<h1>Lab 11: JavaScript Events and Forms</h1>
+			<div class="minor-section">
+					<h2>Challenge</h2>
+					<p>The challenge for this assignment is to create a fuction that will gather user input and return it in alphabetical order.</p>
+			</div>
+
+			<div class="minor-section">
+					<h2>Problems</h2>
+					<p>The first problem, I ran into was that the submit button did not do anything. I got it to show up on my page but it didn't output anything.</p>
+                    <p>Secoundly, I was confused on how exactly to link the Javascript to my page, but I used my hompage links as reference and got it done.</p>
+			</div>
+
+			<div class="minor-section">
+					<h2>Reflection</h2>
+					<p>After many ups and downs I got my function to work. I keep forgeting to include the append and return commands within the fuction brackets. But I was able to fix it on my own this time without Adams help so that was a big win. </p>
+			</div>
+
+			<div class="minor-section">
+					<h2>Input</h2>
+                    <input  type="text" id="user-name" placeholder="Input your name">
+                    <ul><button id="submit">Submit</button></ul>
+                    <h2>Output</h2>
+                    <div id="output"></div>
+			</div>
+
+		</section>
+		<nav id="links">
+			<ul>
+                <p><link href= "../lab11/js/lab.js">
+                <a href="../lab11/js/lab.js">JavaScript</a></p>	
+				<button onclick= "window.location.href= '../index.html'">Homepage</button>
+		   </ul>
+		</nav>
+	</main>
+</body>
+</html>
